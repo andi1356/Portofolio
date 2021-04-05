@@ -4,10 +4,9 @@ Student of "Gh. Asachi" Technical University of Iasi in Computer Sciences and Au
 
 Contact: e-mail | LinkedIn | GitHub |
 
-With a background in academic science and an interest in art, I enjoy both the technically rigorous aspects of application development and the creative aspects of visual design. I always aim to write clean, testable code, take mindful and user-centred approaches to design, and employ pair-programming and agile practices. I am particularly interested in using technology to tackle social and environmental problems, and to improve our health and wellbeing.
+I enjoy big challenges because those are the ones that come with big rewards! That being said this repository reppresent the projects I managed to keep along the years as I studied diverse programming languages and functionalities of each until I settled with one of them, Python. Right now I am focused in mastering Python and writing clean and well commented code that I can read ten years later and be able to understand.
 
-For more information, please see:
+For more info about me:
 
-my CV, for a one-page summary of my skills and experience
-my portfolio, for a list of projects I've worked on
-my LinkedIn, for a more comprehensive list of my experience
+my CV: https://drive.google.com/file/d/1SHULQnvDULBy0yf_ISI_5p10Od19_zrW/view?usp=sharing
+my LinkedIn: https://www.linkedin.com/in/andrei-robu-6b78b1181/
