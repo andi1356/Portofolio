@@ -1,3 +1,5 @@
 
 .DS_Store
 ^applications/.DS_Store
+^applications/Car\ Sharing\ App/.DS_Store
+^applications/Lane\ Detection/.DS_Store
